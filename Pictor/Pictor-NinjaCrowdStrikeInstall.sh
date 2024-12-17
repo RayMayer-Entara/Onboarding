@@ -4,7 +4,7 @@ GREEN='\033[0;32m'
 
 echo -e "Downloading NinjaRMM...\n"
 
-wget https://github.com/RayMayer-Entara/Onboarding/blob/main/Pictor/pictorlabsmainoffice-6.0.1816-installer-x86-64.deb -O /tmp/NinjaRMM.deb
+wget "https://github.com/RayMayer-Entara/Onboarding/blob/main/Pictor/pictorlabsmainoffice-6.0.1816-installer-x86-64.deb" -O /tmp/NinjaRMM.deb
 
 echo -e "Marking NinjaRMM.deb as an executable...\n"
 
