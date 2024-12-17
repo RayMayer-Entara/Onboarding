@@ -4,7 +4,7 @@ GREEN='\033[0;32m'
 
 echo -e "Downloading NinjaRMM...\n"
 
-wget "https://github.com/RayMayer-Entara/Onboarding/raw/refs/heads/main/Pictor/pictorlabsmainoffice-6.0.1816-installer-x86-64.deb" -O /tmp/NinjaRMM.deb
+wget "https://file.io/31rEmI9B4rUI" -O /tmp/NinjaRMM.deb
 
 echo -e "Marking NinjaRMM.deb as an executable...\n"
 
@@ -18,7 +18,7 @@ echo -e "${GREEN}Installed NinjaRMM!\e[0m \n"
 
 echo -e "Downloading CrowdStrike...\n"
 
-wget "https://github.com/RayMayer-Entara/Onboarding/raw/refs/heads/main/Pictor/falcon_sensor.deb" -O /tmp/falcon_sensor.deb
+wget "https://file.io/5elvJehI5Kdq" -O /tmp/falcon_sensor.deb
 
 echo -e "Installing CrowdStrike...\n"
 
